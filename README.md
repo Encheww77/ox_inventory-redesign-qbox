@@ -1,5 +1,7 @@
 # ox_inventory
 
+![Screenshot 2025-01-02 030325](https://github.com/user-attachments/assets/14abdf34-c630-4682-982c-f2bfb50c830e)
+
 A complete inventory system for FiveM, implementing items, weapons, shops, and more without any strict framework dependency.
 
 ![](https://img.shields.io/github/downloads/overextended/ox_inventory/total?logo=github)
